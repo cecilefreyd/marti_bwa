@@ -1,1 +1,1 @@
-# marty_bwa
+# marti_bwa

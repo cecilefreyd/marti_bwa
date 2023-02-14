@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="952px" height="56px" viewBox="0 0 952 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Organisme/List/Horizontal/Simple/Guidelines</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Organisme/List/Horizontal/Simple/Guidelines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Molecule/LabelValue" transform="translate(16.000000, 9.000000)" fill="#525252">
+            <text id="Placeholder" font-family="Montserrat-SemiBold, Montserrat" font-size="16" font-weight="500">
+                <tspan x="0" y="34">Placeholder</tspan>
+            </text>
+            <text id="Label" font-family="Montserrat-Regular, Montserrat" font-size="14" font-weight="normal">
+                <tspan x="0" y="13">Label</tspan>
+            </text>
+        </g>
+        <g id="Molecule/LabelValue" transform="translate(200.000000, 9.000000)" fill="#525252">
+            <text id="Placeholder" font-family="Montserrat-SemiBold, Montserrat" font-size="16" font-weight="500">
+                <tspan x="0" y="34">Placeholder</tspan>
+            </text>
+            <text id="Label" font-family="Montserrat-Regular, Montserrat" font-size="14" font-weight="normal">
+                <tspan x="0" y="13">Label</tspan>
+            </text>
+        </g>
+        <g id="Molecule/LabelValue" transform="translate(384.000000, 9.000000)" fill="#525252">
+            <text id="Placeholder" font-family="Montserrat-SemiBold, Montserrat" font-size="16" font-weight="500">
+                <tspan x="0" y="34">Placeholder</tspan>
+            </text>
+            <text id="Label" font-family="Montserrat-Regular, Montserrat" font-size="14" font-weight="normal">
+                <tspan x="0" y="13">Label</tspan>
+            </text>
+        </g>
+        <g id="Molecule/LabelValue" transform="translate(568.000000, 9.000000)" fill="#525252">
+            <text id="Placeholder" font-family="Montserrat-SemiBold, Montserrat" font-size="16" font-weight="500">
+                <tspan x="0" y="34">Placeholder</tspan>
+            </text>
+            <text id="Label" font-family="Montserrat-Regular, Montserrat" font-size="14" font-weight="normal">
+                <tspan x="0" y="13">Label</tspan>
+            </text>
+        </g>
+        <g id="Molecule/LabelValue" transform="translate(752.000000, 9.000000)" fill="#525252">
+            <text id="Placeholder" font-family="Montserrat-SemiBold, Montserrat" font-size="16" font-weight="500">
+                <tspan x="0" y="34">Placeholder</tspan>
+            </text>
+            <text id="Label" font-family="Montserrat-Regular, Montserrat" font-size="14" font-weight="normal">
+                <tspan x="0" y="13">Label</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="16" height="56"></rect>
+        <rect id="Rectangle-Copy" fill="#D8D8D8" x="176" y="0" width="24" height="56"></rect>
+        <rect id="Rectangle-Copy-2" fill="#D8D8D8" x="360" y="0" width="24" height="56"></rect>
+        <rect id="Rectangle-Copy-3" fill="#D8D8D8" x="544" y="0" width="24" height="56"></rect>
+        <rect id="Rectangle-Copy-4" fill="#D8D8D8" x="728" y="0" width="24" height="56"></rect>
+        <rect id="Rectangle-Copy-5" fill="#D8D8D8" x="936" y="0" width="16" height="56"></rect>
+        <text id="24" font-family="Montserrat-Regular, Montserrat" font-size="14" font-weight="normal" fill="#525252">
+            <tspan x="180" y="48">24</tspan>
+        </text>
+        <text id="24-copy-2" font-family="Montserrat-Regular, Montserrat" font-size="14" font-weight="normal" fill="#525252">
+            <tspan x="547" y="48">24</tspan>
+        </text>
+        <text id="24-copy" font-family="Montserrat-Regular, Montserrat" font-size="14" font-weight="normal" fill="#525252">
+            <tspan x="364" y="48">24</tspan>
+        </text>
+        <text id="24-copy-3" font-family="Montserrat-Regular, Montserrat" font-size="14" font-weight="normal" fill="#525252">
+            <tspan x="731" y="48">24</tspan>
+        </text>
+        <text id="16" font-family="Montserrat-Regular, Montserrat" font-size="14" font-weight="normal" fill="#525252">
+            <tspan x="1" y="48">16</tspan>
+        </text>
+        <text id="16-copy" font-family="Montserrat-Regular, Montserrat" font-size="14" font-weight="normal" fill="#525252">
+            <tspan x="937" y="48">16</tspan>
+        </text>
+    </g>
+</svg>
